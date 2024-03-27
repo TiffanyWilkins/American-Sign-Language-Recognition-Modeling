@@ -1,6 +1,7 @@
 
-<img width="739" alt="image" src="https://github.com/TiffanyWilkins/American-Sign-Language-Recognition-Modeling/assets/54362628/5f502886-7053-400a-9557-736822785d91">
-##Problem Statement
+<img width="740" alt="image" src="https://github.com/TiffanyWilkins/American-Sign-Language-Recognition-Modeling/assets/54362628/aea09ffb-dc46-4947-828c-b2829f4007fc">
+
+#Problem Statement
 
 Since ASL is a visual and non-verbal language, unless another person understands it, they would need an interpreter to understand.
 Without an available interpreter, one would need some type of way to understand the message of an impaired individual who is communicating to them.
